@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aryaman Suri",
+    "section": "",
+    "text": "Hi, I’m Aryaman, a student at the University of Toronto studying Computer Science and Statistics. I’m a data engineer with experience in data pipelining with a keen interest in data science and AI.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

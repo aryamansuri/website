@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "BIO",
+    "section": "",
+    "text": "Hi, I’m Aryaman, a student at the University of Toronto. I’m a data engineer skilled in data pipelining with a keen interest in data science and AI."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Toronto Sept 2019 — Present\n\nBachelor of Science in Computer Science & Statistics; minor in Mathematics\nReceived the University of Toronto International Scholar Award\n\nRelevant Coursework: Machine Learning, Programming Languages & Compilers, Data Structures, Algorithms & Models of Computation, Algebraic Cryptography, Computer Architecture, Computer Systems, Database Systems, Numerical Methods, Statistical Modeling, Computational Statistics, Multivariable Calculus, Differential Equations"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Toronto Sept 2019 — Present\n\nBachelor of Science in Computer Science & Statistics; minor in Mathematics\nReceived the University of Toronto International Scholar Award\n\nRelevant Coursework: Machine Learning, Programming Languages & Compilers, Data Structures, Algorithms & Models of Computation, Algebraic Cryptography, Computer Architecture, Computer Systems, Database Systems, Numerical Methods, Statistical Modeling, Computational Statistics, Multivariable Calculus, Differential Equations"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nLanguage Education Research Assistant\nUniversity of Toronto Mississauga Jan 2024 – Present\nThe language studies lab at the University of Toronto Mississauga is a dedicated research hub exploring language acquisition, cognitive processes, and socio-cultural influences on linguistic development.\n\nConducted comprehensive research on language education benefits and challenges, referencing authoritative sources.\nAnalyzed statistical data to identify trends in language course enrollments, contributing to the understanding of attrition.\nFormulated research questions and methodologies to investigate student and instructor beliefs in language learning.\nLed data collection efforts, including surveys and interviews, to gather insights into student motivations for language course participation.\n\n\n\nFreelance Data Analyst\nTelus International Nov 2023 – Present\nTelus International has an AI training platform that works on increasing the performance of Al chatbots by providing the training they need to understand and interact with real world users.\n\nLead and contribute to the crucial field of data quality within machine learning, meticulously labeling, ranking, auditing, and correcting data to ensure optimal accuracy in our models.\nCompleted text-based tasks, ensuring every piece of information enhances the overall quality of the data ecosystem.\nProactively recommended enhancements to elevate the data quality standards and contribute to the continuous improvement of processes.\nProvided constructive feedback to cross-functional team members, fostering a culture of excellence within interdisciplinary teams.\n\n\n\nData Scienctist\nCulturaliQ May 2022 – Sept 2022\nCultureIQ is a market research company focused on data analytics to help clients better reach a more diverse customer base\n\nManaged end to end data analytics pipeline including collection, cleaning, exploration, and analysis\nEnhanced database connectivity by leveraging software development expertise in Python NumPy, SciPy, python-twitter and MySQL db.\nDeveloped and implemented statistical models to analyze the behaviors of different demographic groups and provided clients detailed analysis to improve targeted marketing\nDesigned web surveys that improved overall data collection and accuracy rates by 20%\n\n\n\nSoftware Developer\nICICI Securities May 2021 – Sept 2021\nICICI securities is a subsidiary of the ICICI Bank built to provide financial solutions to over 5 million global customers. It allows customers to share trade at a low brokerage.\n\nAdministered internal databases in MERN stack, used React.js and SQL Server for maintenance\nLaunched an in-house platform that automates end-to-end process to store and update tax invoices that was previously manually handled by employees.\n\n\n\nResearcher\nThe WhiteBoard Company May 2018 – July 2018\nTWC is a 360-firm specializing in interactive digital solutions, branding, and events with cumulative experience of over 80 years in diverse industry sectors.\n\nLeveraged knowledge on SEO and interactive digital solutions to execute social media business strategy and improved digital audience engagement\nImplemented full-stack marketing solutions for clients by utilizing UI design and mobile app development"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\nPython, Pandas, SQL, MySQL, PostgreSQL, Shell, R, Java, JavaScript"
+  },
+  {
+    "objectID": "index.html#strengths",
+    "href": "index.html#strengths",
+    "title": "Curriculum Vitae",
+    "section": "Strengths",
+    "text": "Strengths\nBackend systems design, web development, predictive modeling"
+  }
+]

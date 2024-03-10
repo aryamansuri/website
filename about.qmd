@@ -1,0 +1,5 @@
+---
+title: "BIO"
+---
+
+Hi, I'm Aryaman, a student at the University of Toronto. I'm a data engineer skilled in data pipelining with a keen interest in data science and AI.
