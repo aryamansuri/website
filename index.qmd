@@ -11,27 +11,23 @@ format-links: [pdf]
 
 ## EDUCATION
 
+### High School
+***Hiranandani Foundation School***[*June 2004 --- May 2019*]{.cvdate}
+
+- 95% in Class X ICSE Board Examination (***2016***)
+- Received the Governor’s Gold Award for scoring above 90% across all subjects in ICSE Board Examination
+- 93% in Class XII ISC Board Examination (***2019***)
+
 ### Bachelor of Science -- Computer Science and Statistics
 ***University of Toronto*** [*Sept 2019 --- Present*]{.cvdate}
 
 -	Bachelor of Science in Computer Science & Statistics; minor in Mathematics 
 -	Received the University of Toronto International Scholar Award
 
-Relevant Coursework: Machine Learning, Programming Languages & Compilers, Data Structures, Algorithms & Models of Computation, Algebraic Cryptography, Computer Architecture, Computer Systems, Database Systems, Numerical Methods, Statistical Modeling, Computational Statistics, Multivariable Calculus, Differential Equations
+***Relevant Coursework:*** Machine Learning, Programming Languages & Compilers, Data Structures, Algorithms & Models of Computation, Algebraic Cryptography, Computer Architecture, Computer Systems, Database Systems, Numerical Methods, Statistical Modeling, Computational Statistics, Multivariable Calculus, Differential Equations
 
 
 ## WORK EXPERIENCE{style="page-break-before: always"}
-
-### Language Education Research Assistant
-
-***University of Toronto Mississauga*** [Jan 2024 -- Present]{.cvdate}
-
-The language studies lab at the University of Toronto Mississauga is a dedicated research hub exploring language acquisition, cognitive processes, and socio-cultural influences on linguistic development.
-
--	Conducted comprehensive research on language education benefits and challenges, referencing authoritative sources.
--	Analyzed statistical data to identify trends in language course enrollments, contributing to the understanding of attrition.
--	Formulated research questions and methodologies to investigate student and instructor beliefs in language learning.
--	Led data collection efforts, including surveys and interviews, to gather insights into student motivations for language course participation.
 
 ### Freelance Data Analyst
 
@@ -83,4 +79,4 @@ TWC is a 360-firm specializing in interactive digital solutions, branding, and e
 Python, Pandas, SQL, MySQL, PostgreSQL, Shell, R, Java, JavaScript
 
 ## Strengths
-Backend systems design, web development, predictive modeling
+Back-end systems design, web development, predictive modeling
